@@ -11,6 +11,7 @@ public class InterfazLogin extends Activity {
 	 *holi
 	 * el mabru se la come
 	 */
+	// se la come entera
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
