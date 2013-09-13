@@ -6,6 +6,12 @@ import android.view.Menu;
 
 public class InterfazLogin extends Activity {
 
+	
+	/*
+	 *holi
+	 * 
+	 */
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
