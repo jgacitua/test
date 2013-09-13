@@ -9,7 +9,7 @@ public class InterfazLogin extends Activity {
 	
 	/*
 	 *holi
-	 * 
+	 * el mabru se la come
 	 */
 	
 	@Override
